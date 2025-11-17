@@ -157,7 +157,8 @@ Include a few sample images here.
 
 
 
-<img width="1675" height="677" alt="Screenshot 2025-10-14 112345" src="https://github.com/user-attachments/assets/d60bceca-8fb9-4ee0-abac-76b792931bf2" />
+<img width="1671" height="600" alt="image" src="https://github.com/user-attachments/assets/c0bd5924-5db3-4283-be61-2f09520065a8" />
+
 
 
 
